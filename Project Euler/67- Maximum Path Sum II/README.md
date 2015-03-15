@@ -7,11 +7,11 @@ By starting at the top of the triangle below and moving to adjacent numbers on t
 
 3 
 
-74 
+7 4 
 
-246 
+2 4 6 
 
-8593
+8 5 9 3
 
 That is, 3+7+4+9=23.
 
