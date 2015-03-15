@@ -6,8 +6,11 @@ This problem is a programming version of Problem 67 from projecteuler.net
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23. The path is denoted by numbers in bold.
 
 3 
+
 74 
+
 246 
+
 8593
 
 That is, 3+7+4+9=23.
@@ -30,18 +33,29 @@ Each element of triangle lies between 0 and 100(both inclusive).
 Sample Input:
 
 2
+
 4
+
 3
+
 7 4
+
 2 4 6
+
 8 5 9 3
+
 4
+
 3
+
 7 4
+
 2 4 6
+
 8 5 9 3
 
 Sample Output:
 
 23
+
 23
