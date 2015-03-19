@@ -1,4 +1,4 @@
-## Permutation game ## 
+## Permutation game
 
 Source: https://www.hackerrank.com/challenges/permutation-game
 
@@ -24,15 +24,15 @@ Constraints:
 The permutation will not be an increasing sequence initially.
 
 Sample Input:
-	2
+`	 2
 	3
 	1 3 2
 	5
-	5 3 2 1 4
+	5 3 2 1 4`
 
 Sample Output:
-	Alice
-	Bob
+`	 Alice
+	Bob`
 
 ### Explanation: ###
 For the first example, Alice can remove the 3 or the 2 to make the sequence increasing and wins the game. For the second example, if 4 is removed then the only way to have an increasing sequence is to only have 1 number left, which would take a total of 4 moves, thus allowing Bob to win. On the first move if Alice removes the 4, it will take 3 more moves to create an increasing sequence thus Bob wins. If Alice does not remove the 4, then Bob can remove it on his next turn since Alice can not win in one move.
